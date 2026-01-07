@@ -4,7 +4,6 @@ import com.example.gwaze.member.dto.CreateMemberRequest;
 import com.example.gwaze.member.dto.CreateMemberResponse;
 import com.example.gwaze.member.dto.GetMemberResponse;
 import com.example.gwaze.member.service.MemberService;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

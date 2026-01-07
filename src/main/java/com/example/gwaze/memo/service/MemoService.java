@@ -8,7 +8,6 @@ import com.example.gwaze.memo.dto.GetMemoResponse;
 import com.example.gwaze.memo.entity.Memo;
 import com.example.gwaze.memo.repository.MemoRepository;
 import lombok.RequiredArgsConstructor;
-import org.jspecify.annotations.Nullable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
